@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Xamarin projects
-- 🌱 I’m currently learning ... Xamarin & C# techs
+- 🌱 I’m currently learning ... .NET Maui & C# techs
 - 👯 I’m looking to collaborate on ... ASP.net apis
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
