@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... .NET Maui & C# techs
+- 🔭 I’m currently working on ... .NET Maui & .NET Ecosystem
 - 🌱 I’m currently learning ... Maui Hybrid
 - 👯 I’m looking to collaborate on ... ASP.NET apis
 - 🤔 I’m looking for help with ... AWS
